@@ -151,7 +151,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-**@kega_007** (GitHub: [App4l](https://github.com/App4l))
+**@kega_007**
 - Steam: [AmethystUncoverLeminlemizNugget](https://steamcommunity.com/id/AmethystUncoverLeminlemizNugget/)
 
 ## ⚠️ Disclaimer
